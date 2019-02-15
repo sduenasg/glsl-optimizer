@@ -62,8 +62,8 @@ static bool s_GL3Active = false;
 #include <cstdio>
 #include <cstring>
 #include "dirent.h"
-#include "GL/gl.h"
-#include "GL/glext.h"
+#include "GLES3/gl3.h"
+#include "GLES3/gl3ext.h"
 
 #endif // ! #if GOT_GFX
 
